@@ -1,0 +1,27 @@
+body {
+	background-image: url(razkolkle45.jpg);
+}
+
+table {
+	border-collapse: collapse; /*убираем пустые промежутки между ячейками*/
+	border: 3px solid grey;
+	width: 1000px;
+	font-family: Ubuntu;
+}
+
+th {
+	background-color: #8BC34A; /* Light Green 500*/
+	border: 1px solid grey;
+	font-size: 24px;
+	width: 20%;
+}
+
+td {
+	background-color: #C5E1A5; /* Light Green 200*/
+	border: 1px solid grey;
+	font-size: 20px;
+	width: 30%;
+}
+.odd {
+  background-color: #DCEDC8;
+}
